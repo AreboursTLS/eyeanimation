@@ -63,6 +63,7 @@ class PaupiereWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      //c'est cette variable qui gère l'ouverture et la fermeture de l'œil
       height: verticalClosure,
       width: eyeSize.width / 2,
       decoration: const BoxDecoration(
