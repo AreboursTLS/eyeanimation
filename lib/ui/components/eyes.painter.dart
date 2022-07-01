@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//painter pour la forme de l'œil
+
 class EyeBackGroundPainter extends CustomPainter {
   EyeBackGroundPainter({
     required this.backgroundColor,
