@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:testshape/ui/components/eyes.clipper.dart';
 import 'package:testshape/ui/components/eyes.painter.dart';
 
 class EyeWidget extends StatelessWidget {
