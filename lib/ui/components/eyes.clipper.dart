@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//clip de la paupière
+
 class EyeClipper extends CustomClipper<Rect> {
   const EyeClipper();
   @override
